@@ -1,14 +1,13 @@
 class Ship {
   float x, y;
-  float speed = 6;
+  float speed = 5;
   float w = 30, h = 40;
-  int turretCount = 1;
+  
   boolean isMovingLeft, isMovingRight, isMovingUp, isMovingDown;
 
   Ship(float x, float y) {
     this.x = x;
     this.y = y;
-    turretCount = 1;
   }
 
   void update() {
@@ -34,3 +33,4 @@ class Ship {
     popMatrix();
   }
 }
+
