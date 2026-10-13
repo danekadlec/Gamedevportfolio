@@ -4,7 +4,7 @@
 
 ### SpaceGame
 
-![SpaceGame](https://github.com/danekadlec/Gamedevportfolio/blob/main/images/spacegame.png?raw=true)
+![SpaceGame](https://github.com/danekadlec/Gamedevportfolio/blob/main/images/spacegame.png?)
 
 [Link for Source Code]([url](https://github.com/danekadlec/Gamedevportfolio/blob/main/images/spacegame.png))
 
