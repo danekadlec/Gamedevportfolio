@@ -21,3 +21,4 @@ class Laser {
     return (y < -20);
   }
 }
+
